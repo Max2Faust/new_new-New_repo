@@ -1,2 +1,3 @@
-import streamlit
-streamlit.title(':balloon: Hello')
+import streamlit as st
+
+st.title(':balloon: Hello')
